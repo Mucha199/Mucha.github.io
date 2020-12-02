@@ -1,0 +1,47 @@
+a {
+	color: #000000;
+	font-size: 42px;
+	text-decoration: none;
+	font-Family: Segoe UI, sans-serif;
+}
+
+a:link{
+	color: #000000;
+}
+
+a:visited{
+	color: #000000;
+}
+
+a:hover{
+	font-size: 50px;
+}
+
+h1{
+	font-size: 64px;
+	font-Family: Segoe UI, sans-serif;
+	
+}	
+ 
+ h2{
+		font-size: 60px;
+	font-Family: Lucida Fax, sans-serif;
+ }	
+	
+p{
+	font-size: 40px;
+	font-Family: Segoe UI, sans-serif;
+}
+
+div#Menu_logo {
+	background-color:#FFFFFF;
+}
+
+div#tytul{
+	background-color:#FFFFFF;
+}
+
+p#nr{
+	font-size: 30px;
+	font-Family: Segoe UI, sans-serif;
+}
