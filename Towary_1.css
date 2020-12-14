@@ -14,17 +14,62 @@ a:visited{
 }
 
 a:hover{
-	font-size: 50px;
+	font-size: 44px;
 }
+
+
+
+div#Menu_logo {
+	background: rgba(255, 255, 255, 0.7);
+	position: absolute; width: 100%; top: 0%;
+height: 200px;
+}
+
+div#Logo{
+width: 30%;
+float: left;
+}
+
+div#Menu{
+	padding-top: 60px;
+	float:left;
+	width: 70%;	
+}
+
+a#main:hover{
+	font-size: 42px;
+}
+
+a#main{
+margin-right: 70px;
+}
+	
+a#cs{
+margin-right: 70px;
+}
+
+a#pr{
+text-align: center;
+margin-right: 70px;
+}
+
+a#ga{
+margin-right: 48px;
+}
+
+a#sia{
+margin-right: 56px;
+}
+
 
 h1{
 	font-size: 64px;
 	font-Family: Segoe UI, sans-serif;
+	text-align:center;
 	
 }	
 
 h2{
-	background-color:#919191;
 	font-size: 64px;
 }
 
@@ -32,20 +77,100 @@ p{
 	font-size: 40px;
 	font-Family: Segoe UI, sans-serif;
 }
+ div#trzoda_chlewna{
+	background-color: white;	 
+ }
+ div#tytul{
+	 float: left;
+	 	background: rgba(255, 255, 255, 0.7);
+		position: absolute; width: 50%; top: 21%;
+height: 166px;
+width: 945px;
+font-size:60px;
+ }
+ 
+ div#tlo{
+	width: 100%
+ }
+ 
+  div#t1{
+	  width: 1043px;
+	  height:165px;
+	  	background-color:#919191;
+		text-align:center;
+		margin-top: 300px;
+		margin-bottom: 40px;
+		padding-top:5px;
+  }
+  
+  div#ob1{
+float: left;
+width: 50%;	  
+  }
+  
+  div#text_1{
+	  float: left;
+	width: 50%;	 
+  }
+  
 
-div#Bydlo{
-	text-align: right;
-}
+  div#t2{
+	  width: 1062px;
+	  height:165px;
+	  	background-color:#919191;
+		text-align:center;
+		margin-top: 300px;
+		margin-bottom: 40px;
+		padding-top:5px;
+		float: right;
+  }
+  
+  div#ob2{
+float: right;
+width: 50%;	  
+  }
+  
+  div#text_2{
+	  float: right;
+	  text-align:right;
+	width: 50%;	 
+  }
+  
+  div#t3{
+	  width: 1043px;
+	  height:165px;
+	  	background-color:#919191;
+		text-align:center;
+		margin-top: 300px;
+		margin-bottom: 40px;
+		padding-top:5px;
+		float:left;
+  }
+  div#ob3{
+float: left;
+width: 50%;	  
+  }
+  
+  div#text_3{
+	float: left;
+	width: 50%;	 
+  }
+
+
 
 p#nr{
+	padding-top: 0px;
 	font-size: 30px;
 	font-Family: Segoe UI, sans-serif;
 }
-
-div#Menu_logo {
-	background-color:#FFFFFF;
+p#dostep1{
+	text-align:right;
+	font-size:30px;
+	padding-right:40px;
+}
+p#dostep2{
+	text-align:left;
+	font-size:30px;
+	padding-left:40px;
 }
 
-div#tytul{
-	background-color:#FFFFFF;
-}

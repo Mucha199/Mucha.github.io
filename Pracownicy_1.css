@@ -14,12 +14,69 @@ a:visited{
 }
 
 a:hover{
-	font-size: 50px;
+	font-size: 44px;
 }
+
+
+
+div#Menu_logo {
+	background: rgba(255, 255, 255, 0.7);
+	position: absolute; width: 100%; top: 0%;
+height: 200px;
+}
+
+div#Logo{
+width: 30%;
+float: left;
+}
+
+div#Menu{
+	padding-top: 60px;
+	float:left;
+	width: 70%;	
+}
+
+a#main:hover{
+	font-size: 42px;
+}
+
+a#main{
+margin-right: 70px;
+}
+	
+a#cs{
+margin-right: 70px;
+}
+
+a#pr{
+text-align: center;
+margin-right: 70px;
+}
+
+a#ga{
+margin-right: 48px;
+}
+
+a#sia{
+margin-right: 56px;
+}
+div#tytul{
+	 float: left;
+	 	background: rgba(255, 255, 255, 0.7);
+		position: absolute; width: 50%; top: 21%;
+height: 166px;
+width: 945px;
+font-size:60px;
+ }
+ 
+ div#tlo{
+	width: 100%
+ }
 
 h1{
 	font-size: 64px;
 	font-Family: Segoe UI, sans-serif;
+		text-align:center;
 	
 }	
  
@@ -33,15 +90,27 @@ p{
 	font-Family: Segoe UI, sans-serif;
 }
 
-div#Menu_logo {
-	background-color:#FFFFFF;
-}
-
-div#tytul{
-	background-color:#FFFFFF;
-}
 
 p#nr{
 	font-size: 30px;
 	font-Family: Segoe UI, sans-serif;
 }
+ div#ob{
+float: left;
+width: 40%;	  
+  }
+  
+  div#text{
+	  float: left;
+	  text-align:left;
+	width: 60%;	 
+  }
+  div#Pracownik_1{
+	  margin-top:300px;
+  }
+    div#Pracownik_2{
+	  margin-top:1000px;
+  }
+    div#Pracownik_3{
+	  margin-top:1700px;
+  }

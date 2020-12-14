@@ -14,9 +14,60 @@ a:visited{
 }
 
 a:hover{
-	font-size: 50px;
+	font-size: 44px;
 }
 
+
+
 div#Menu_logo {
-	background-color:#FFFFFF;
+	background: rgba(255, 255, 255, 0.7);
+	position: absolute; width: 100%; top: 0%;
+height: 200px;
 }
+
+div#Logo{
+width: 30%;
+float: left;
+}
+
+div#Menu{
+	padding-top: 60px;
+	float:left;
+	width: 70%;	
+}
+
+a#main:hover{
+	font-size: 42px;
+}
+
+a#main{
+margin-right: 70px;
+}
+	
+a#cs{
+margin-right: 70px;
+}
+
+a#pr{
+text-align: center;
+margin-right: 70px;
+}
+
+a#ga{
+margin-right: 48px;
+}
+
+a#sia{
+margin-right: 56px;
+}
+
+img#ob1{
+width: 33%;	
+}
+img#ob2{
+width: 33%;	
+}
+img#ob3{
+width: 33%;	
+}
+
