@@ -19,7 +19,7 @@ a:hover{
 
 
 
-div#Menu_logo {
+section{
 	background: rgba(255, 255, 255, 0.7);
 	position: absolute; width: 100%; top: 0%;
 height: 200px;
@@ -30,7 +30,7 @@ width: 30%;
 float: left;
 }
 
-div#Menu{
+nav{
 	padding-top: 60px;
 	float:left;
 	width: 70%;	
@@ -60,7 +60,7 @@ margin-right: 48px;
 a#sia{
 margin-right: 56px;
 }
-div#tytul{
+header{
 	 float: left;
 	 	background: rgba(255, 255, 255, 0.7);
 		position: absolute; width: 50%; top: 21%;
@@ -101,7 +101,8 @@ div#Mapa{
 	float: left;
 	width:50%;
 }
-div#Adresy{
+article{
 	float: left;
 	width:50%;
 }
+main{ margin-top: 300px}

@@ -19,7 +19,7 @@ a:hover{
 
 
 
-div#Menu_logo {
+section#Menu_logo {
 	background: rgba(255, 255, 255, 0.7);
 	position: absolute; width: 100%; top: 0%;
 height: 200px;
@@ -30,7 +30,7 @@ width: 30%;
 float: left;
 }
 
-div#Menu{
+nav{
 	padding-top: 60px;
 	float:left;
 	width: 70%;	
@@ -77,10 +77,10 @@ p{
 	font-size: 40px;
 	font-Family: Segoe UI, sans-serif;
 }
- div#trzoda_chlewna{
+ section#trzoda_chlewna{
 	background-color: white;	 
  }
- div#tytul{
+ header#tytul{
 	 float: left;
 	 	background: rgba(255, 255, 255, 0.7);
 		position: absolute; width: 50%; top: 21%;
@@ -93,7 +93,7 @@ font-size:60px;
 	width: 100%
  }
  
-  div#t1{
+  header#t1{
 	  width: 1043px;
 	  height:165px;
 	  	background-color:#919191;
@@ -108,13 +108,13 @@ float: left;
 width: 50%;	  
   }
   
-  div#text_1{
+  article#text_1{
 	  float: left;
 	width: 50%;	 
   }
   
 
-  div#t2{
+  header#t2{
 	  width: 1062px;
 	  height:165px;
 	  	background-color:#919191;
@@ -130,13 +130,13 @@ float: right;
 width: 50%;	  
   }
   
-  div#text_2{
+  article#text_2{
 	  float: right;
 	  text-align:right;
 	width: 50%;	 
   }
   
-  div#t3{
+  header#t3{
 	  width: 1043px;
 	  height:165px;
 	  	background-color:#919191;
@@ -151,7 +151,7 @@ float: left;
 width: 50%;	  
   }
   
-  div#text_3{
+  article#text_3{
 	float: left;
 	width: 50%;	 
   }
@@ -173,4 +173,4 @@ p#dostep2{
 	font-size:30px;
 	padding-left:40px;
 }
-
+main{margin-top: 300px;}

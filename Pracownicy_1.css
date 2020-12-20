@@ -19,7 +19,7 @@ a:hover{
 
 
 
-div#Menu_logo {
+section#Menu_logo {
 	background: rgba(255, 255, 255, 0.7);
 	position: absolute; width: 100%; top: 0%;
 height: 200px;
@@ -30,7 +30,7 @@ width: 30%;
 float: left;
 }
 
-div#Menu{
+nav{
 	padding-top: 60px;
 	float:left;
 	width: 70%;	
@@ -60,7 +60,7 @@ margin-right: 48px;
 a#sia{
 margin-right: 56px;
 }
-div#tytul{
+header{
 	 float: left;
 	 	background: rgba(255, 255, 255, 0.7);
 		position: absolute; width: 50%; top: 21%;
@@ -100,17 +100,19 @@ float: left;
 width: 40%;	  
   }
   
-  div#text{
+  article{
 	  float: left;
 	  text-align:left;
 	width: 60%;	 
+		  margin-bottom: 300px;
   }
-  div#Pracownik_1{
-	  margin-top:300px;
+  section#Pracownik_1{
+	  margin-bottom: 100px;
   }
-    div#Pracownik_2{
-	  margin-top:1000px;
+    section#Pracownik_2{
+	  margin-top: 150px;
   }
-    div#Pracownik_3{
-	  margin-top:1700px;
+    section#Pracownik_3{
+	  margin-top: 100px;
   }
+main{ margin-top: 300px;}

@@ -19,7 +19,7 @@ a:hover{
 
 
 
-div#Menu_logo {
+section {
 	background: rgba(255, 255, 255, 0.7);
 	position: absolute; width: 100%; top: 0%;
 height: 200px;
@@ -30,7 +30,7 @@ width: 30%;
 float: left;
 }
 
-div#Menu{
+nav{
 	padding-top: 60px;
 	float:left;
 	width: 70%;	
