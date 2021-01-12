@@ -108,17 +108,20 @@ p {
 div#obraz_1{
 	float: left;
 	width:50%;
+	margin-top:50px;
 }
 div#obraz_2{
 	float: left;
 	width:50%;
+	margin-top:150px;
 }
 div#Mapa{
 	float: left;
 	width:50%;
+	margin-top:150px;
 }
 article{
 	float: left;
 	width:50%;
 }
-main{ margin-top: 300px}
+main{ margin-top: 200px}
