@@ -1,3 +1,7 @@
+body{
+	margin: 0 auto;
+}
+
 a {
 	color: #000000;
 	font-size: 38px;
@@ -78,7 +82,7 @@ a#sia:hover{
 header{
 	 float: left;
 	 	background: rgba(255, 255, 255, 0.7);
-		position: absolute; width: 50%; top: 21%;
+		position: absolute; width: 50%; top: 20.6%;
 height: 166px;
 width: 945px;
 font-size:60px;
