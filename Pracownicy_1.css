@@ -89,7 +89,7 @@ font-size:60px;
  }
  
  div#tlo{
-	width: 100%
+	width: 99%
  }
 
 h1{
@@ -133,6 +133,13 @@ float: left;
 width: 40%;	
 margin-top: 60px;  
   }
+
+@media screen and (max-width: 600px) {
+  div#ob {
+    display: none;
+  }
+}
+
   
   
   article{
